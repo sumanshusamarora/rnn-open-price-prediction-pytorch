@@ -1,0 +1,14 @@
+name: timeseries
+channels:
+  - conda-forge
+dependencies:
+    - pandas
+    - python=3.10
+    - seaborn
+    - jupyter
+    - pip
+    - pip:
+        - mlflow
+        - feature-engine
+        - pytorch
+        - pytorch-lightning

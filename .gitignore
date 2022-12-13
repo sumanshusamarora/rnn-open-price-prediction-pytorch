@@ -1,0 +1,12 @@
+data/*
+~data/.ignore
+lightning_logs/
+mlruns/
+.idea/
+.ipynb_checkpoints/
+data/
+*.csv
+*.json
+*.pkl
+*.pth
+*.jpg
